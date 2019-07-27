@@ -1,2 +1,2 @@
 # hello-world
-I am just a noob!
+This is just a test
